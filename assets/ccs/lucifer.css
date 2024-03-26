@@ -1,0 +1,18 @@
+.Lucifer{
+    border-radius: 10px;
+    width: 20%;
+    margin: 40px;
+    padding-left: 100px;
+}
+section{
+        position: fixed;
+        padding-left: 400px;
+        margin-top: -300px;
+        margin-left: 200px;     
+}
+.volver{
+    position: fixed;
+    padding-left: 400px;
+    margin-top: 0px;
+    margin-left: 400px; 
+}

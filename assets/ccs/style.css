@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 40px;      
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 40px;  
+}
+ul{
+   text-align: left;
+   padding-left: 200px;
+}
+
+
+.gato{
+    border-radius: 10px;
+    width: 20%;
+    margin: 40px;
+    padding-left: 100px;
+    
+   
+   
+}
+.perro{
+    border-radius: 10px;
+    width: 20%;
+    margin: 20px; 
+    padding-left: 100px;
+}
+.linkg{
+    width: 20%;
+    margin: 40px;
+    padding-left: 700px;
+}
+.linkp{
+    width: 20%;
+    margin: 40px;
+    padding-left: 700px;
+}
+

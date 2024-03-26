@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 40px;      
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 40px;  
+}
+.loki{
+    border-radius: 10px;
+    width: 20%;
+    margin: 40px;
+    padding-left: 100px;
+    
+}
+.gary{
+    border-radius: 10px;
+    width: 20%;
+    margin: 40px;
+    padding-left: 100px;
+}
+.lucufer{
+    border-radius: 10px;
+    width: 20%;
+    margin: 40px;
+    padding-left: 100px;
+}
